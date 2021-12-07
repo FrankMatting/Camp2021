@@ -12,7 +12,7 @@
 | Daniel       |               |
 | Dieter       |               |
 | Florian      |               |
-| Frank        |               |
+| Frank        | FrankMatting  |
 | Hansjoerg    |               |
 | Joachim      |               |
 | Klaus        |               |
